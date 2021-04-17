@@ -16,10 +16,10 @@ fi
 #                         's                                     '                                                          substitution is performed on the following pattern consisting of
 #                           /-                                                                                                 a literal hyphen
 #                              \[     \]                                                                                       with the following enclosed by `md` URL text brackets
-#                                [^]]*                                                                                            0 or more non-"closing-square-bracket" characters
+#                                [^]]*                                                                                            0 or more non-"closing-square-brackets"
 #                                       \(             \)                                                                      with the following enclosed by `md` URL hyperlink parentheses:
 #                                         \s*                                                                                     0 or more instances of any whitespace
-#                                            (     )                                                                           with the following as a capture group
+#                                            (     )                                                                           with the following as a capture group (1)
 #                                             [^)]*                                                                               0 or more non-closing-"parentheses"
 #                                                   \s*                                                                        followed by any amount of whitespace
 #                                                        .*$                                                                   followed by everything until the end of the line
