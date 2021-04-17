@@ -13,18 +13,20 @@
 - [the-akira's CS resources](https://github.com/the-akira/Computer-Science-Resources)
 - [MorganGeek's bookmarks](https://github.com/MorganGeek/bookmarks) - over 4,000 bookmarks for devs and geeks
 
-# Composition
+# Creative
 
 - [Adobe Color](https://color.adobe.com/create) - Adobe colour picker
 - [ASCII Flow](https://asciiflow.com) - draw monospaced ASCII diagrams interactively
 - [ASCIInema](https://asciinema.org/) - record your terminal textually rather than as a video
 - [Coolors](https://coolors.co/) - generate pretty colour schemes
-
+- [Jekyll Themes](https://jekyllthemes.io)
 
 # Computer Science and Programming
 
 ## Education
 - [Awesome System Design](https://github.com/madd86/awesome-system-design) - curated list of system design resources
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - absolutely enormous list of dev. utils
+- [Design Patterns Explained with Food](https://github.com/wesdoyle/design-patterns-explained-with-food) - :\-)
 - [mayfrost's Guides](https://github.com/mayfrost/guides) - CS-related guides
 - [openlib.cs](https://github.com/acmbpdc/openlib.cs) - free and open resources for university coursework in CS
 - [OSSU CS](https://github.com/ossu/computer-science) - the Open Source Society University's free, completely-online self-taught degree in CS
@@ -38,6 +40,7 @@
 - [Contrast-Ratio.com](https://contrast-ratio.com/) - compare different back-/fore-ground contrasts
 - [Empty Character](http://emptycharacter.com/) - a bunch of blank unicode characters
 - [fuzzdb](https://github.com/fuzzdb-project/fuzzdb) - dictionary of attack patterns/primitives for black-box fault injection/resource discovery
+- [GTmetrix Website Tester](https://gtmetrix.com/) - website performance tester
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Google's page benchmark site
 - [Whitespace Characters to Copy and Paste](https://beautifuldingbats.com/whitespace/) - a detailed site going over many Unicode whitespace characters
 
@@ -45,13 +48,13 @@
 - [List of Banned C Functions in the `git` Project](https://github.com/git/git/blob/master/banned.h) - look what they did to mah boi `strcpy`
 - [What is the Strict Aliasing Rule and Why do we care?](https://gist.github.com/shafik/848ae25ee209f698763cffee272a58f8) - OR type punning, undefined behaviour, and alignment
 
-## Web Development
+## Tools
 - [Colorlib Bootstrap Templates](https://colorlib.com/wp/cat/bootstrap/) - Bootstrap templates
 - [Built With](https://builtwith.com/) - find out what tech. stack a site was made with
 - [Can I Use](https://caniuse.com/) - look up the compatibility of various HTML elements depending on browser
 - [Codepen.io](https://codepen.io/) - spotlight your code snippets to other people
+- [Compiler Explorer](https://godbolt.org/) - study the assembler output of compiled programs
 - [hilite.me](http://hilite.me/) - convert code snippets into pretty-printed HTML format
-- [Jekyll Themes](https://jekyllthemes.io)
 
 # Datasets
 - [Neri's Frequency Lists](https://frequencylists.blogspot.com/) - most commonly-used words per language
@@ -77,6 +80,7 @@
 - [Depix](https://github.com/beurtschipper/Depix) - recover text from pixellated screenshots
 - [Doublespeak](https://dblspk.io/) - cloak your text using invisible whitespace
 - [EXIF Data](http://exifdata.com) - extract EXIF data from photos
+- [Graph Tips](https://graph.tips/beta/) - new Facebook search function simplifier
 - [SAND Lab Image Cloaker](http://sandlab.cs.uchicago.edu/fawkes/) - cloak your images using the Fawkes team's algorithm
 
 # Everything Else
