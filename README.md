@@ -2,7 +2,7 @@
 > Some cool sites I've collected over the years.
 
 ## Table of Contents
-+ [Computers](#computers)
++ [Computer Science and Programming](#computer-science-and-programming)
   + [Fuzzing](#fuzzing)
   + [QA](#qa)
 
@@ -14,10 +14,14 @@
 - [Coolors](https://coolors.co/) - generate pretty colour schemes
 
 
-# Computers
+# Computer Science and Programming
 
 ## Articles
 - [What is the Strict Aliasing Rule and Why do we care?](https://gist.github.com/shafik/848ae25ee209f698763cffee272a58f8) - OR type punning, undefined behaviour, and alignment
+
+## Education
+- [openlib.cs](https://github.com/acmbpdc/openlib.cs) - free and open resources for university coursework in CS
+- [System Design Primer](https://github.com/donnemartin/system-design-primer) - prep for the system design interview—includes Anki flashcards :poggies:
 
 ## QA
 - [Browserbench](https://browserbench.org/) - benchmark the performance of your browser setup
@@ -36,7 +40,7 @@
 - [hilite.me](http://hilite.me/) - convert code snippets into pretty-printed HTML format
 - [Jekyll Themes](https://jekyllthemes.io)
 
-# Information
+# Datasets
 - [Neri's Frequency Lists](https://frequencylists.blogspot.com/) - most commonly-used words per language
 
 # Privacy
@@ -55,10 +59,9 @@
 ## Guides
 - [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
 
-## Self-Dox
-- [Camas' Reddit Search](https://camas.github.io/reddit-search/) - search for old Reddit comments/posts
-
 ## Tools
+- [Camas' Reddit Search](https://camas.github.io/reddit-search/) - search for old Reddit comments/posts
+- [Depix](https://github.com/beurtschipper/Depix) - recover text from pixellated screenshots
 - [Doublespeak](https://dblspk.io/) - cloak your text using invisible whitespace
 - [EXIF Data](http://exifdata.com) - extract EXIF data from photos
 - [SAND Lab Image Cloaker](http://sandlab.cs.uchicago.edu/fawkes/) - cloak your images using the Fawkes team's algorithm
