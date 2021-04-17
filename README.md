@@ -18,18 +18,23 @@
 - [Adobe Color](https://color.adobe.com/create) - Adobe colour picker
 - [ASCII Flow](https://asciiflow.com) - draw monospaced ASCII diagrams interactively
 - [ASCIInema](https://asciinema.org/) - record your terminal textually rather than as a video
+- [Colorlib Bootstrap Templates](https://colorlib.com/wp/cat/bootstrap/) - Bootstrap templates
 - [Coolors](https://coolors.co/) - generate pretty colour schemes
+- [Hemingway](http://www.hemingwayapp.com/) - proofread your writing
 - [HTML5 UP!](https://html5up.net/) - HTML5 templates
 - [Jekyll Themes](https://jekyllthemes.io)
 - [nomnoml](https://nomnoml.com/) - text-driven UML/diagram/flowchart generator
+- [xosh's Text-to-Diagram List](https://xosh.org/text-to-diagram/) - list of text-to-diagram tools
 - [Pretty Colors](https://prettycolors.tumblr.com/) - a collaborative flow of pretty colors
 
 # Computer Science and Programming
 
 ## Career
 - [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed) - the precursor to 'Grokking the Coding Interview'
+- [How to Get a Job at the Big 4](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 - [Intern Supply](https://intern.supply/) - find internships
 - [interviewing.io](https://interviewing.io/recordings/) - watch technical mock interviews from the big leagues
+- [The Teamblind Leetcode 75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) - possibly the most important LC questions to know
 
 ## Education
 - [Awesome System Design](https://github.com/madd86/awesome-system-design) - curated list of system design resources
@@ -57,10 +62,10 @@
 
 ## Tidbits
 - [List of Banned C Functions in the `git` Project](https://github.com/git/git/blob/master/banned.h) - look what they did to mah boi `strcpy`
+- [The Lost Art of Structure Packing](http://www.catb.org/esr/structure-packing/)
 - [What is the Strict Aliasing Rule and Why do we care?](https://gist.github.com/shafik/848ae25ee209f698763cffee272a58f8) - OR type punning, undefined behaviour, and alignment
 
 ## Tools
-- [Colorlib Bootstrap Templates](https://colorlib.com/wp/cat/bootstrap/) - Bootstrap templates
 - [Built With](https://builtwith.com/) - find out what tech. stack a site was made with
 - [Can I Use](https://caniuse.com/) - look up the compatibility of various HTML elements depending on browser
 - [Codepen.io](https://codepen.io/) - spotlight your code snippets to other people
@@ -69,6 +74,7 @@
 - [hilite.me](http://hilite.me/) - convert code snippets into pretty-printed HTML format
 - [JS Fiddle](https://jsfiddle.net/) - fiddle with JS code lol
 - [Ohm](https://ohmlang.github.io/editor/) - formal grammar validator/tester
+- [`wget` Wizard](https://www.whatismybrowser.com/developers/tools/wget-wizard/) - interactive `wget` command creation wizard
 
 # Datasets
 - [Neri's Frequency Lists](https://frequencylists.blogspot.com/) - most commonly-used words per language
@@ -92,6 +98,7 @@
 - [Camas' Reddit Search](https://camas.github.io/reddit-search/) - search for old Reddit comments/posts
 - [Cover Your Tracks](https://coveryourtracks.eff.org/) - test how much tracking information your browser leaks
 - [Depix](https://github.com/beurtschipper/Depix) - recover text from pixellated screenshots
+- [Do I Leak?](https://www.top10vpn.com/do-i-leak/) - well?
 - [Doublespeak](https://dblspk.io/) - cloak your text using invisible whitespace
 - [Dynu Reddit](https://reddit.dynu.net/) - yet another Reddit archiver
 - [EXIF Data](http://exifdata.com) - extract EXIF data from photos
@@ -102,6 +109,7 @@
 - [Politicbot](https://politicbot.github.io/r/all) - Reddit unarchiver
 - [Privacy.net Analyzer](https://privacy.net/analyzer/) - Analyze what your browser leaks
 - [SAND Lab Image Cloaker](http://sandlab.cs.uchicago.edu/fawkes/) - cloak your images using the Fawkes team's algorithm
+- [Unlisted Videos](http://unlistedvideos.com/) - search for unlisted videos
 - [YouTube Geofind](https://mattw.io/youtube-geofind/location) - find YouTube videos by location
 - [YTComment Finder](https://ytcomment.kmcat.uk/) - search comments on YouTube videos
 
@@ -109,3 +117,6 @@
 - [Anime Girls Holding Programming Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) - \=D
 - [Monkeysort](https://leonid-shevtsov.github.io/monkeysort/) - sorting tool that uses human intervention
 - [Reddit.guide](https://reddit.guide/) - discover new subreddits
+- [This Waifu does not Exist](https://www.thiswaifudoesnotexist.net/) - GAN neural network-powered waifu creator
+- [waifu2x](https://waifu2x.booru.pics/) - upscale your anime pictures using AI
+- [WolframAlpha](https://www.wolframalpha.com/) - computational knowledge engine
