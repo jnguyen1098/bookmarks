@@ -11,7 +11,7 @@ fi
 #      <(                                                               )                                          the process substitution of
 #        sort <(                                                       )                                              the `sort` output of
 #               sed                                                                                                      the `sed` output where
-#                   -n                                                                                                      default printing is suppressed,
+#                   -n                                                                                                      default printing is suppressed
 #                      -r                                                                                                   extended mode is enabled
 #                         's                                     '                                                          substitution is performed on the following pattern consisting of
 #                           /-                                                                                                 a literal hyphen
