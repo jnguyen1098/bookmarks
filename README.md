@@ -82,6 +82,7 @@
 ## Guides
 - [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
 - [The Paranoid's Bible](https://paranoidsbible.tumblr.com/)
+- [PRISM Break](https://prism-break.org/en/) - (_attempt to_) opt out of global surveillance programs
 
 ## Tools / Self-Dox Checkup
 - [Am I FLOCed](https://amifloced.org/) - see if you are part of Google's FLOC beta
@@ -97,6 +98,7 @@
 - [ImgOps](https://imgops.com/) - perform forensic analysis on images
 - [Namechk](https://namechk.com/) - Internet username lookup
 - [Politicbot](https://politicbot.github.io/r/all) - Reddit unarchiver
+- [Privacy.net Analyzer](https://privacy.net/analyzer/) - Analyze what your browser leaks
 - [SAND Lab Image Cloaker](http://sandlab.cs.uchicago.edu/fawkes/) - cloak your images using the Fawkes team's algorithm
 - [YouTube Geofind](https://mattw.io/youtube-geofind/location) - find YouTube videos by location
 - [YTComment Finder](https://ytcomment.kmcat.uk/) - search comments on YouTube videos
