@@ -16,7 +16,8 @@
 
 # Computer Science and Programming
 
-## Articles
+## Tidbits
+- [List of Banned C Functions in the `git` Project](https://github.com/git/git/blob/master/banned.h) - look what they did to mah boi `strcpy`
 - [What is the Strict Aliasing Rule and Why do we care?](https://gist.github.com/shafik/848ae25ee209f698763cffee272a58f8) - OR type punning, undefined behaviour, and alignment
 
 ## Education
@@ -33,7 +34,7 @@
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Google's page benchmark site
 - [Whitespace Characters to Copy and Paste](https://beautifuldingbats.com/whitespace/) - a detailed site going over many Unicode whitespace characters
 
-## Web
+## Web Development
 - [Colorlib Bootstrap Templates](https://colorlib.com/wp/cat/bootstrap/) - Bootstrap templates
 - [Built With](https://builtwith.com/) - find out what tech. stack a site was made with
 - [Can I Use](https://caniuse.com/) - look up the compatibility of various HTML elements depending on browser
