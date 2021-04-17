@@ -16,7 +16,7 @@
 # Creative
 
 - [Adobe Color](https://color.adobe.com/create) - Adobe colour picker
-- [ASCII Flow](https://asciiflow.com) - draw monospaced ASCII diagrams interactively
+- [ASCII Flow](https://asciiflow.com/) - draw monospaced ASCII diagrams interactively
 - [ASCIInema](https://asciinema.org/) - record your terminal textually rather than as a video
 - [Colorlib Bootstrap Templates](https://colorlib.com/wp/cat/bootstrap/) - Bootstrap templates
 - [Coolors](https://coolors.co/) - generate pretty colour schemes
@@ -111,7 +111,7 @@
 - [DetectAdBlock.com](https://www.detectadblock.com/) - detects ad blockers
 
 ## Guides
-- [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
+- [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/guide.html/)
 - [The Paranoid's Bible](https://paranoidsbible.tumblr.com/)
 - [The New Oil](https://thenewoil.xyz/) - information is the new oil
 - [PRISM Break](https://prism-break.org/en/) - (_attempt to_) opt out of global surveillance programs
@@ -132,7 +132,7 @@
 - [Do I Leak?](https://www.top10vpn.com/do-i-leak/) - well?
 - [Doublespeak](https://dblspk.io/) - cloak your text using invisible whitespace
 - [Dynu Reddit](https://reddit.dynu.net/) - Reddit archive
-- [EXIF Data](http://exifdata.com) - extract EXIF data from photos
+- [EXIF Data](http://exifdata.com/) - extract EXIF data from photos
 - [Graph Tips](https://graph.tips/beta/) - new Facebook search function simplifier
 - [Instant Username](https://instantusername.com/) - username lookup
 - [ImgOps](https://imgops.com/) - perform forensic analysis on images
@@ -158,7 +158,7 @@
 - [Logical Increments](https://www.logicalincrements.com/) - PC baseline builds by price
 - [Monkeysort](https://leonid-shevtsov.github.io/monkeysort/) - sorting tool that uses human intervention
 - [Neri's Frequency Lists](https://frequencylists.blogspot.com/) - most commonly-used words per language
-- [/r/OpenDirectories](https://reddit.com/r/opendirectories)
+- [/r/OpenDirectories](https://reddit.com/r/opendirectories/)
 - [This Person does not Exist](https://thispersondoesnotexist.com/) - GAN-generated people
 - [Postpone.app](https://www.postpone.app/analysis) - Reddit subreddit traffic analysis tool
 - [Reddit.guide](https://reddit.guide/) - discover new subreddits
