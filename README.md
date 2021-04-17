@@ -29,6 +29,7 @@
 - [Contrast Checker](https://contrastchecker.com/) - check the contrast of your fore-/back-ground colour choices
 - [Contrast-Ratio.com](https://contrast-ratio.com/) - compare different back-/fore-ground contrasts
 - [Empty Character](http://emptycharacter.com/) - a bunch of blank unicode characters
+- [fuzzdb](https://github.com/fuzzdb-project/fuzzdb) - dictionary of attack patterns/primitives for black-box fault injection/resource discovery
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Google's page benchmark site
 - [Whitespace Characters to Copy and Paste](https://beautifuldingbats.com/whitespace/) - a detailed site going over many Unicode whitespace characters
 
