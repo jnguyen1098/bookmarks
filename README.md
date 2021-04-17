@@ -1,5 +1,8 @@
-# Jason's Bookmarks
+# 🔖 Jason's Bookmarks
+> Some cool sites I've collected over the years.
 
-enjoy?
+## Sections
++ [Dev. Utilities](#dev-utilities)
 
-- [Google](https://google.com) GOOD SITE
+## Dev. Utilities
+- [BrowserShots](http://browsershots.org)
