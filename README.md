@@ -24,6 +24,8 @@
 - [HTML5 UP!](https://html5up.net/) - HTML5 templates
 - [Jekyll Themes](https://jekyllthemes.io)
 - [nomnoml](https://nomnoml.com/) - text-driven UML/diagram/flowchart generator
+- [Photopea](https://www.photopea.com/) - entirely-online Photoshop clone
+- [PlantText](https://www.planttext.com/) - _the expert's design tool_ :sunglasses:
 - [remove.bg](https://www.remove.bg/) - picture background remover that uses AI
 - [xosh's Text-to-Diagram List](https://xosh.org/text-to-diagram/) - list of text-to-diagram tools
 - [Pretty Colors](https://prettycolors.tumblr.com/) - a collaborative flow of pretty colors
@@ -32,9 +34,11 @@
 
 ## Career
 - [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed) - the precursor to 'Grokking the Coding Interview'
+- [Career Guide to CS](https://www.notion.so/Written-Guide-ad5593333b0540c2b9a4fab8a07f4365)
 - [How to Get a Job at the Big 4](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 - [Intern Supply](https://intern.supply/) - find internships
 - [interviewing.io](https://interviewing.io/recordings/) - watch technical mock interviews from the big leagues
+- [Rank My Internship](https://www.rankmyinternship.ca/)
 - [The Teamblind Leetcode 75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) - possibly the most important LC questions to know
 
 ## Education
@@ -62,6 +66,7 @@
 - [Whitespace Characters to Copy and Paste](https://beautifuldingbats.com/whitespace/) - a detailed site going over many Unicode whitespace characters
 
 ## Tidbits
+- [How to Properly Declare C `extern`s](https://www.mathcs.emory.edu/~cheung/Courses/255/Syllabus/1-C-intro/cprep2b.html)
 - [List of Banned C Functions in the `git` Project](https://github.com/git/git/blob/master/banned.h) - look what they did to mah boi `strcpy`
 - [The Lost Art of Structure Packing](http://www.catb.org/esr/structure-packing/)
 - [What is the Strict Aliasing Rule and Why do we care?](https://gist.github.com/shafik/848ae25ee209f698763cffee272a58f8) - OR type punning, undefined behaviour, and alignment
@@ -93,8 +98,11 @@
 
 ## Guides
 - [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
+- [JudyRecords](https://www.judyrecords.com/) - public Canadian court records
 - [The Paranoid's Bible](https://paranoidsbible.tumblr.com/)
+- [OntarioCourts.ca](https://www.ontariocourts.ca/search-canlii/ocj-en.htm) - look up public court information in Ontario
 - [PRISM Break](https://prism-break.org/en/) - (_attempt to_) opt out of global surveillance programs
+- [Privacytools.io](https://www.privacytools.io/) - privacy-friendly alternatives to existing software
 - [The Ultimate Privacy Guide](https://www.reddit.com/r/privacy/comments/2byg94/the_ultimate_privacy_guide/)
 
 ## Tools / Self-Dox Checkup
@@ -123,7 +131,9 @@
 
 # Everything Else
 - [Anime Girls Holding Programming Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) - \=D
+- [Logical Increments](https://www.logicalincrements.com/) - PC baseline builds by price
 - [Monkeysort](https://leonid-shevtsov.github.io/monkeysort/) - sorting tool that uses human intervention
+- [Postpone.app](https://www.postpone.app/analysis) - Reddit subreddit traffic analysis tool
 - [Reddit.guide](https://reddit.guide/) - discover new subreddits
 - [This Waifu does not Exist](https://www.thiswaifudoesnotexist.net/) - GAN neural network-powered waifu creator
 - [waifu2x](https://waifu2x.booru.pics/) - upscale your anime pictures using AI
