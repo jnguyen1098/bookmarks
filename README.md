@@ -24,6 +24,7 @@
 - [HTML5 UP!](https://html5up.net/) - HTML5 templates
 - [Jekyll Themes](https://jekyllthemes.io)
 - [nomnoml](https://nomnoml.com/) - text-driven UML/diagram/flowchart generator
+- [remove.bg](https://www.remove.bg/) - picture background remover that uses AI
 - [xosh's Text-to-Diagram List](https://xosh.org/text-to-diagram/) - list of text-to-diagram tools
 - [Pretty Colors](https://prettycolors.tumblr.com/) - a collaborative flow of pretty colors
 
@@ -74,10 +75,14 @@
 - [hilite.me](http://hilite.me/) - convert code snippets into pretty-printed HTML format
 - [JS Fiddle](https://jsfiddle.net/) - fiddle with JS code lol
 - [Ohm](https://ohmlang.github.io/editor/) - formal grammar validator/tester
+- [Seobility](https://www.seobility.net/en/seocheck/) - website SEO checker
+- [Shellcheck](https://www.shellcheck.net/) - check your shell scripts for problems
 - [`wget` Wizard](https://www.whatismybrowser.com/developers/tools/wget-wizard/) - interactive `wget` command creation wizard
 
-# Datasets
+# Datasets and Directories
+- [ElectroXexual's Open Directory Resources](https://www.reddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/)
 - [Neri's Frequency Lists](https://frequencylists.blogspot.com/) - most commonly-used words per language
+- [/r/OpenDirectories](https://reddit.com/r/opendirectories)
 
 # Privacy
 
@@ -90,24 +95,27 @@
 - [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
 - [The Paranoid's Bible](https://paranoidsbible.tumblr.com/)
 - [PRISM Break](https://prism-break.org/en/) - (_attempt to_) opt out of global surveillance programs
+- [The Ultimate Privacy Guide](https://www.reddit.com/r/privacy/comments/2byg94/the_ultimate_privacy_guide/)
 
 ## Tools / Self-Dox Checkup
 - [Am I FLOCed](https://amifloced.org/) - see if you are part of Google's FLOC beta
 - [Am I Unique](https://amiunique.org/) - check how vulnerable your browser fingerprint is
 - [Browser Leaks](https://browserleaks.com/) - numerous resources and information about what your browser can leak (+mitigation tips)
-- [Camas' Reddit Search](https://camas.github.io/reddit-search/) - search for old Reddit comments/posts
+- [Camas' Reddit Search](https://camas.github.io/reddit-search/) - Reddit archive
 - [Cover Your Tracks](https://coveryourtracks.eff.org/) - test how much tracking information your browser leaks
 - [Depix](https://github.com/beurtschipper/Depix) - recover text from pixellated screenshots
 - [Do I Leak?](https://www.top10vpn.com/do-i-leak/) - well?
 - [Doublespeak](https://dblspk.io/) - cloak your text using invisible whitespace
-- [Dynu Reddit](https://reddit.dynu.net/) - yet another Reddit archiver
+- [Dynu Reddit](https://reddit.dynu.net/) - Reddit archive
 - [EXIF Data](http://exifdata.com) - extract EXIF data from photos
 - [Graph Tips](https://graph.tips/beta/) - new Facebook search function simplifier
 - [Instant Username](https://instantusername.com/) - username lookup
 - [ImgOps](https://imgops.com/) - perform forensic analysis on images
 - [Namechk](https://namechk.com/) - Internet username lookup
-- [Politicbot](https://politicbot.github.io/r/all) - Reddit unarchiver
+- [Politicbot](https://politicbot.github.io/r/all) - Reddit archive
 - [Privacy.net Analyzer](https://privacy.net/analyzer/) - Analyze what your browser leaks
+- [Removeddit](https://www.removeddit.com/) - Reddit archive
+- [Reveddit](https://www.reveddit.com/) - yet another Reddit unarchive
 - [SAND Lab Image Cloaker](http://sandlab.cs.uchicago.edu/fawkes/) - cloak your images using the Fawkes team's algorithm
 - [Unlisted Videos](http://unlistedvideos.com/) - search for unlisted videos
 - [YouTube Geofind](https://mattw.io/youtube-geofind/location) - find YouTube videos by location
