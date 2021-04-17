@@ -16,10 +16,6 @@
 
 # Computer Science and Programming
 
-## Tidbits
-- [List of Banned C Functions in the `git` Project](https://github.com/git/git/blob/master/banned.h) - look what they did to mah boi `strcpy`
-- [What is the Strict Aliasing Rule and Why do we care?](https://gist.github.com/shafik/848ae25ee209f698763cffee272a58f8) - OR type punning, undefined behaviour, and alignment
-
 ## Education
 - [openlib.cs](https://github.com/acmbpdc/openlib.cs) - free and open resources for university coursework in CS
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) - prep for the system design interview—includes Anki flashcards :poggies:
@@ -33,6 +29,10 @@
 - [fuzzdb](https://github.com/fuzzdb-project/fuzzdb) - dictionary of attack patterns/primitives for black-box fault injection/resource discovery
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Google's page benchmark site
 - [Whitespace Characters to Copy and Paste](https://beautifuldingbats.com/whitespace/) - a detailed site going over many Unicode whitespace characters
+
+## Tidbits
+- [List of Banned C Functions in the `git` Project](https://github.com/git/git/blob/master/banned.h) - look what they did to mah boi `strcpy`
+- [What is the Strict Aliasing Rule and Why do we care?](https://gist.github.com/shafik/848ae25ee209f698763cffee272a58f8) - OR type punning, undefined behaviour, and alignment
 
 ## Web Development
 - [Colorlib Bootstrap Templates](https://colorlib.com/wp/cat/bootstrap/) - Bootstrap templates
