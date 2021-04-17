@@ -120,7 +120,7 @@
 - [The Ultimate Privacy Guide](https://www.reddit.com/r/privacy/comments/2byg94/the_ultimate_privacy_guide/)
 
 ## Tools / Self-Dox Checkup
-- [Aloodo Browser Test](https://aloodo.org/test/) - check your browser for leaks
+- [Aloodo Browser Test](https://www.aloodo.org/test/) - check your browser for leaks
 - [Am I FLOCed](https://amifloced.org/) - see if you are part of Google's FLOC beta
 - [Am I Unique](https://amiunique.org/) - check how vulnerable your browser fingerprint is
 - [Browser Leaks](https://browserleaks.com/) - numerous resources and information about what your browser can leak (+mitigation tips)
