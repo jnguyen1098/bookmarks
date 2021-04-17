@@ -5,4 +5,4 @@
 + [Dev. Utilities](#dev-utilities)
 
 # Dev. Utilities
-- [BrowserShots](http://browsershots.org)
+- [BrowserShots](http://browsershots.org/)
