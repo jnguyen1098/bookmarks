@@ -6,6 +6,12 @@
   + [Fuzzing](#fuzzing)
   + [QA](#qa)
 
+# List of Lists
+- [awesome](https://github.com/sindresorhus/awesome) - the OG lists of lists
+- [awesome-lists](https://github.com/pshah123/awesome-lists) - lists of lists of lists
+- [lists...](https://github.com/jnv/lists) - lists of lists of lists of . . . lists of lists
+- [MorganGeek's bookmarks](https://github.com/MorganGeek/bookmarks) - over 4,000 bookmarks for devs and geeks
+
 # Composition
 
 - [Adobe Color](https://color.adobe.com/create) - Adobe colour picker
@@ -17,7 +23,10 @@
 # Computer Science and Programming
 
 ## Education
+- [Awesome System Design](https://github.com/madd86/awesome-system-design) - curated list of system design resources
+- [mayfrost's Guides](https://github.com/mayfrost/guides) - CS-related guides
 - [openlib.cs](https://github.com/acmbpdc/openlib.cs) - free and open resources for university coursework in CS
+- [OSSU CS](https://github.com/ossu/computer-science) - the Open Source Society University's free, completely-online self-taught degree in CS
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) - prep for the system design interview—includes Anki flashcards :poggies:
 
 ## QA
@@ -68,3 +77,5 @@
 - [EXIF Data](http://exifdata.com) - extract EXIF data from photos
 - [SAND Lab Image Cloaker](http://sandlab.cs.uchicago.edu/fawkes/) - cloak your images using the Fawkes team's algorithm
 
+# Everything Else
+- [Anime Girls Holding Programming Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) - \=D
