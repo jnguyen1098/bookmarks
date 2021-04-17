@@ -39,6 +39,7 @@
 - [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed) - the precursor to 'Grokking the Coding Interview'
 - [Career Guide to CS](https://www.notion.so/Written-Guide-ad5593333b0540c2b9a4fab8a07f4365)
 - [How to Get a Job at the Big 4](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+- [How to Get a Job in Tech](https://www.gautamtata.com/series/how-to-get-a-job-in-tech/)
 - [Intern Supply](https://intern.supply/) - find internships
 - [interviewing.io](https://interviewing.io/recordings/) - watch technical mock interviews from the big leagues
 - [Rank My Internship](https://www.rankmyinternship.ca/)
@@ -62,6 +63,7 @@
 - [Basemark](https://web.basemark.com/) - browser benchmarker
 - [Browserbench](https://browserbench.org/) - benchmark the performance of your browser setup
 - [Browser Shots](http://browsershots.org/) - get screenshots of your website from different browser agents/setups
+- [CheckMyColours](https://www.checkmycolours.com/) - check contrast of fore-/back-ground colours
 - [Contrast Checker](https://contrastchecker.com/) - check the contrast of your fore-/back-ground colour choices
 - [Contrast-Ratio.com](https://contrast-ratio.com/) - compare different back-/fore-ground contrasts
 - [fuzzdb](https://github.com/fuzzdb-project/fuzzdb) - dictionary of attack patterns/primitives for black-box fault injection/resource discovery
@@ -106,6 +108,7 @@
 - [ads-blocker.com](https://ads-blocker.com/testing/) - test your ad blocker
 - [Block Ads!](https://blockads.fivefilters.org/) - detects whether you have an ad blocker
 - [Can You Block It?](https://canyoublockit.com/) - ad block tester, very intense
+- [DetectAdBlock.com](https://www.detectadblock.com/) - detects ad blockers
 
 ## Guides
 - [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
@@ -125,6 +128,7 @@
 - [Canlii](https://www.canlii.org/en/) - Canadian court records
 - [Cover Your Tracks](https://coveryourtracks.eff.org/) - test how much tracking information your browser leaks
 - [Depix](https://github.com/beurtschipper/Depix) - recover text from pixellated screenshots
+- [DeviceInfo.me](https://www.deviceinfo.me/) - tells you as much browser-leaked information about your system as possible
 - [Do I Leak?](https://www.top10vpn.com/do-i-leak/) - well?
 - [Doublespeak](https://dblspk.io/) - cloak your text using invisible whitespace
 - [Dynu Reddit](https://reddit.dynu.net/) - Reddit archive
@@ -147,6 +151,8 @@
 
 # Everything Else
 - [Anime Girls Holding Programming Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) - \=D
+- [DeepL Translator](https://www.deepl.com/translator) - apparently a good translator
+- [Dwitter](https://www.dwitter.net/) - <= 140-char JavaScript visual demos
 - [ElectroXexual's Open Directory Resources](https://www.reddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/)
 - [The Kilobyte Gambit](https://vole.wtf/kilobytes-gambit/) - can _YOU_ beat a thousand bytes of JavaScript in Chess?
 - [Logical Increments](https://www.logicalincrements.com/) - PC baseline builds by price
