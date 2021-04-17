@@ -19,9 +19,13 @@
 - [ASCII Flow](https://asciiflow.com) - draw monospaced ASCII diagrams interactively
 - [ASCIInema](https://asciinema.org/) - record your terminal textually rather than as a video
 - [Coolors](https://coolors.co/) - generate pretty colour schemes
+- [HTML5 UP!](https://html5up.net/) - HTML5 templates
 - [Jekyll Themes](https://jekyllthemes.io)
 
 # Computer Science and Programming
+
+## Career
+- [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed) - the precursor to 'Grokking the Coding Interview'
 
 ## Education
 - [Awesome System Design](https://github.com/madd86/awesome-system-design) - curated list of system design resources
