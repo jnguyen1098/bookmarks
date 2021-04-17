@@ -65,6 +65,7 @@
 - [Can I Use](https://caniuse.com/) - look up the compatibility of various HTML elements depending on browser
 - [Codepen.io](https://codepen.io/) - spotlight your code snippets to other people
 - [Compiler Explorer](https://godbolt.org/) - study the assembler output of compiled programs
+- [Favicon Generator](https://realfavicongenerator.net/) - for real
 - [hilite.me](http://hilite.me/) - convert code snippets into pretty-printed HTML format
 - [JS Fiddle](https://jsfiddle.net/) - fiddle with JS code lol
 - [Ohm](https://ohmlang.github.io/editor/) - formal grammar validator/tester
@@ -92,6 +93,7 @@
 - [Cover Your Tracks](https://coveryourtracks.eff.org/) - test how much tracking information your browser leaks
 - [Depix](https://github.com/beurtschipper/Depix) - recover text from pixellated screenshots
 - [Doublespeak](https://dblspk.io/) - cloak your text using invisible whitespace
+- [Dynu Reddit](https://reddit.dynu.net/) - yet another Reddit archiver
 - [EXIF Data](http://exifdata.com) - extract EXIF data from photos
 - [Graph Tips](https://graph.tips/beta/) - new Facebook search function simplifier
 - [Instant Username](https://instantusername.com/) - username lookup
@@ -106,3 +108,4 @@
 # Everything Else
 - [Anime Girls Holding Programming Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) - \=D
 - [Monkeysort](https://leonid-shevtsov.github.io/monkeysort/) - sorting tool that uses human intervention
+- [Reddit.guide](https://reddit.guide/) - discover new subreddits
