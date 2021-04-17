@@ -21,6 +21,8 @@
 - [Coolors](https://coolors.co/) - generate pretty colour schemes
 - [HTML5 UP!](https://html5up.net/) - HTML5 templates
 - [Jekyll Themes](https://jekyllthemes.io)
+- [nomnoml](https://nomnoml.com/) - text-driven UML/diagram/flowchart generator
+- [Pretty Colors](https://prettycolors.tumblr.com/) - a collaborative flow of pretty colors
 
 # Computer Science and Programming
 
@@ -36,6 +38,7 @@
 - [Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns) - DP patterns common to interviews
 - [Learn _x_ in _y_ Minutes](https://learnxinyminutes.com/) - learn programming concepts fast!
 - [mayfrost's Guides](https://github.com/mayfrost/guides) - CS-related guides
+- [MIT OpenCourseware](https://ocw.mit.edu/index.htm) - MIT's online courses
 - [openlib.cs](https://github.com/acmbpdc/openlib.cs) - free and open resources for university coursework in CS
 - [OSSU CS](https://github.com/ossu/computer-science) - the Open Source Society University's free, completely-online self-taught degree in CS
 - [Software System Design and Architecture Roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - top-down roadmap of a software engineer's career
@@ -64,6 +67,7 @@
 - [Compiler Explorer](https://godbolt.org/) - study the assembler output of compiled programs
 - [hilite.me](http://hilite.me/) - convert code snippets into pretty-printed HTML format
 - [JS Fiddle](https://jsfiddle.net/) - fiddle with JS code lol
+- [Ohm](https://ohmlang.github.io/editor/) - formal grammar validator/tester
 
 # Datasets
 - [Neri's Frequency Lists](https://frequencylists.blogspot.com/) - most commonly-used words per language
@@ -77,6 +81,7 @@
 
 ## Guides
 - [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
+- [The Paranoid's Bible](https://paranoidsbible.tumblr.com/)
 
 ## Tools / Self-Dox Checkup
 - [Am I FLOCed](https://amifloced.org/) - see if you are part of Google's FLOC beta
@@ -90,6 +95,8 @@
 - [Graph Tips](https://graph.tips/beta/) - new Facebook search function simplifier
 - [Instant Username](https://instantusername.com/) - username lookup
 - [ImgOps](https://imgops.com/) - perform forensic analysis on images
+- [Namechk](https://namechk.com/) - Internet username lookup
+- [Politicbot](https://politicbot.github.io/r/all) - Reddit unarchiver
 - [SAND Lab Image Cloaker](http://sandlab.cs.uchicago.edu/fawkes/) - cloak your images using the Fawkes team's algorithm
 - [YouTube Geofind](https://mattw.io/youtube-geofind/location) - find YouTube videos by location
 - [YTComment Finder](https://ytcomment.kmcat.uk/) - search comments on YouTube videos
