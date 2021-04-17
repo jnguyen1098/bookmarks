@@ -10,6 +10,7 @@
 - [awesome](https://github.com/sindresorhus/awesome) - the OG lists of lists
 - [awesome-lists](https://github.com/pshah123/awesome-lists) - lists of lists of lists
 - [lists...](https://github.com/jnv/lists) - lists of lists of lists of . . . lists of lists
+- [the-akira's CS resources](https://github.com/the-akira/Computer-Science-Resources)
 - [MorganGeek's bookmarks](https://github.com/MorganGeek/bookmarks) - over 4,000 bookmarks for devs and geeks
 
 # Composition
@@ -27,6 +28,7 @@
 - [mayfrost's Guides](https://github.com/mayfrost/guides) - CS-related guides
 - [openlib.cs](https://github.com/acmbpdc/openlib.cs) - free and open resources for university coursework in CS
 - [OSSU CS](https://github.com/ossu/computer-science) - the Open Source Society University's free, completely-online self-taught degree in CS
+- [Software System Design and Architecture Roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - top-down roadmap of a software engineer's career
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) - prep for the system design interview—includes Anki flashcards :poggies:
 
 ## QA
