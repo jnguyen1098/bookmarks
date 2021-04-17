@@ -16,18 +16,18 @@
 # Creative
 
 - [Adobe Color](https://color.adobe.com/create) - Adobe colour picker
-- [ASCII Flow](https://asciiflow.com/) - draw monospaced ASCII diagrams interactively
+- [ASCII Flow](https://asciiflow.com/#/) - draw monospaced ASCII diagrams interactively
 - [ASCIInema](https://asciinema.org/) - record your terminal textually rather than as a video
 - [Colorlib Bootstrap Templates](https://colorlib.com/wp/cat/bootstrap/) - Bootstrap templates
 - [Coolors](https://coolors.co/) - generate pretty colour schemes
 - [Hemingway](http://www.hemingwayapp.com/) - proofread your writing
 - [HTML5 UP!](https://html5up.net/) - HTML5 templates
-- [Jekyll Themes](https://jekyllthemes.io)
 - [nomnoml](https://nomnoml.com/) - text-driven UML/diagram/flowchart generator
 - [The Noun Project](https://thenounproject.com/) - free icons
 - [Photopea](https://www.photopea.com/) - entirely-online Photoshop clone
 - [PlantText](https://www.planttext.com/) - _the expert's design tool_ :sunglasses:
 - [remove.bg](https://www.remove.bg/) - picture background remover that uses AI
+- [Start Bootstrap Themes](https://startbootstrap.com/themes/)
 - [Unsplash](https://unsplash.com/) - free images
 - [Webrecorder.io](https://webrecorder.io/) - record your browser losslessly
 - [xosh's Text-to-Diagram List](https://xosh.org/text-to-diagram/) - list of text-to-diagram tools
@@ -111,7 +111,7 @@
 - [DetectAdBlock.com](https://www.detectadblock.com/) - detects ad blockers
 
 ## Guides
-- [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/guide.html/)
+- [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/)
 - [The Paranoid's Bible](https://paranoidsbible.tumblr.com/)
 - [The New Oil](https://thenewoil.xyz/) - information is the new oil
 - [PRISM Break](https://prism-break.org/en/) - (_attempt to_) opt out of global surveillance programs
@@ -120,7 +120,7 @@
 - [The Ultimate Privacy Guide](https://www.reddit.com/r/privacy/comments/2byg94/the_ultimate_privacy_guide/)
 
 ## Tools / Self-Dox Checkup
-- [Aloodo Browser Test](https://www.aloodo.org/test/https://www.aloodo.org/test/) - check your browser for leaks
+- [Aloodo Browser Test](https://aloodo.org/test/) - check your browser for leaks
 - [Am I FLOCed](https://amifloced.org/) - see if you are part of Google's FLOC beta
 - [Am I Unique](https://amiunique.org/) - check how vulnerable your browser fingerprint is
 - [Browser Leaks](https://browserleaks.com/) - numerous resources and information about what your browser can leak (+mitigation tips)
@@ -134,7 +134,6 @@
 - [Dynu Reddit](https://reddit.dynu.net/) - Reddit archive
 - [EXIF Data](http://exifdata.com/) - extract EXIF data from photos
 - [Graph Tips](https://graph.tips/beta/) - new Facebook search function simplifier
-- [Instant Username](https://instantusername.com/) - username lookup
 - [ImgOps](https://imgops.com/) - perform forensic analysis on images
 - [JudyRecords](https://www.judyrecords.com/) - public Canadian court records
 - [Namechk](https://namechk.com/) - Internet username lookup
@@ -158,11 +157,12 @@
 - [Logical Increments](https://www.logicalincrements.com/) - PC baseline builds by price
 - [Monkeysort](https://leonid-shevtsov.github.io/monkeysort/) - sorting tool that uses human intervention
 - [Neri's Frequency Lists](https://frequencylists.blogspot.com/) - most commonly-used words per language
-- [/r/OpenDirectories](https://reddit.com/r/opendirectories/)
+- [/r/OpenDirectories](https://www.reddit.com/r/opendirectories/)
 - [This Person does not Exist](https://thispersondoesnotexist.com/) - GAN-generated people
 - [Postpone.app](https://www.postpone.app/analysis) - Reddit subreddit traffic analysis tool
 - [Reddit.guide](https://reddit.guide/) - discover new subreddits
 - [Subreddit Stats](https://subredditstats.com/)
 - [This Waifu does not Exist](https://www.thiswaifudoesnotexist.net/) - GAN neural network-powered waifu creator
 - [waifu2x](https://waifu2x.booru.pics/) - upscale your anime pictures using AI
+- [WaifuLabs](https://waifulabs.com/) - create your own waifu
 - [WolframAlpha](https://www.wolframalpha.com/) - computational knowledge engine
