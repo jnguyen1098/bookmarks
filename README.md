@@ -28,10 +28,8 @@
 - [Photopea](https://www.photopea.com/) - entirely-online Photoshop clone
 - [PlantText](https://www.planttext.com/) - _the expert's design tool_ :sunglasses:
 - [remove.bg](https://www.remove.bg/) - picture background remover that uses AI
-- [Shapecatcher](https://shapecatcher.com/) - Unicode character identifier
 - [Unsplash](https://unsplash.com/) - free images
-- [Unicodes](https://unicodes.jessetane.com/) - (possibly) all Unicode characters
-- [utf8.xyz](https://utf8.xyz/) - web app that fetches Unicode characters
+- [Webrecorder.io](https://webrecorder.io/) - record your browser losslessly
 - [xosh's Text-to-Diagram List](https://xosh.org/text-to-diagram/) - list of text-to-diagram tools
 - [Pretty Colors](https://prettycolors.tumblr.com/) - a collaborative flow of pretty colors
 
@@ -61,16 +59,16 @@
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) - prep for the system design interview—includes Anki flashcards :poggies:
 
 ## QA
+- [Basemark](https://web.basemark.com/) - browser benchmarker
 - [Browserbench](https://browserbench.org/) - benchmark the performance of your browser setup
 - [Browser Shots](http://browsershots.org/) - get screenshots of your website from different browser agents/setups
 - [Contrast Checker](https://contrastchecker.com/) - check the contrast of your fore-/back-ground colour choices
 - [Contrast-Ratio.com](https://contrast-ratio.com/) - compare different back-/fore-ground contrasts
-- [Empty Character](http://emptycharacter.com/) - a bunch of blank unicode characters
 - [fuzzdb](https://github.com/fuzzdb-project/fuzzdb) - dictionary of attack patterns/primitives for black-box fault injection/resource discovery
 - [GTmetrix Website Tester](https://gtmetrix.com/) - website performance tester
+- [Markup Validation Service](https://validator.w3.org/) - validates HTML
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Google's page benchmark site
 - [Pingdom Website Speed Test](https://tools.pingdom.com/)
-- [Whitespace Characters to Copy and Paste](https://beautifuldingbats.com/whitespace/) - a detailed site going over many Unicode whitespace characters
 
 ## Tidbits
 - [How to Properly Declare C `extern`s](https://www.mathcs.emory.edu/~cheung/Courses/255/Syllabus/1-C-intro/cprep2b.html)
@@ -94,6 +92,14 @@
 - [Shellcheck](https://www.shellcheck.net/) - check your shell scripts for problems
 - [`wget` Wizard](https://www.whatismybrowser.com/developers/tools/wget-wizard/) - interactive `wget` command creation wizard
 
+## Unicode
+- [Confusables](https://util.unicode.org/UnicodeJsps/confusables.jsp) - Unicode characters that look awfully similar to one another
+- [Empty Character](http://emptycharacter.com/) - a bunch of blank unicode characters
+- [Shapecatcher](https://shapecatcher.com/) - Unicode character identifier
+- [Unicodes](https://unicodes.jessetane.com/) - (possibly) all Unicode characters
+- [utf8.xyz](https://utf8.xyz/) - web app that fetches Unicode characters
+- [Whitespace Characters to Copy and Paste](https://beautifuldingbats.com/whitespace/) - a detailed site going over many Unicode whitespace characters
+
 # Privacy
 
 ## Ad Blocking
@@ -113,6 +119,7 @@
 - [The Ultimate Privacy Guide](https://www.reddit.com/r/privacy/comments/2byg94/the_ultimate_privacy_guide/)
 
 ## Tools / Self-Dox Checkup
+- [Aloodo Browser Test](https://www.aloodo.org/test/https://www.aloodo.org/test/) - check your browser for leaks
 - [Am I FLOCed](https://amifloced.org/) - see if you are part of Google's FLOC beta
 - [Am I Unique](https://amiunique.org/) - check how vulnerable your browser fingerprint is
 - [Browser Leaks](https://browserleaks.com/) - numerous resources and information about what your browser can leak (+mitigation tips)
@@ -140,6 +147,7 @@
 # Everything Else
 - [Anime Girls Holding Programming Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) - \=D
 - [ElectroXexual's Open Directory Resources](https://www.reddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/)
+- [The Kilobyte Gambit](https://vole.wtf/kilobytes-gambit/) - can _YOU_ beat a thousand bytes of JavaScript in Chess?
 - [Logical Increments](https://www.logicalincrements.com/) - PC baseline builds by price
 - [Monkeysort](https://leonid-shevtsov.github.io/monkeysort/) - sorting tool that uses human intervention
 - [Neri's Frequency Lists](https://frequencylists.blogspot.com/) - most commonly-used words per language
