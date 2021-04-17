@@ -2,9 +2,20 @@
 > Some cool sites I've collected over the years.
 
 ## Table of Contents
++ [List of Lists](#list-of-lists)
++ [Creative](#creative)
 + [Computer Science and Programming](#computer-science-and-programming)
-  + [Fuzzing](#fuzzing)
+  + [Career](#career)
+  + [Education](#education)
   + [QA](#qa)
+  + [Tidbits](#tidbits)
+  + [Tools](#tools)
+  + [Unicode](#unicode)
++ [Privacy](#privacy)
+  + [Ad Blocking](#ad-blocking)
+  + [Guides](#guides)
+  + [Tools / Self-Dox Checkup](#tools--self-dox-checkup)
++ [Everything Else](#everything-else)
 
 # List of Lists
 - [awesome](https://github.com/sindresorhus/awesome) - the OG lists of lists
