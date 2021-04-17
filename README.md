@@ -75,24 +75,25 @@
 - [Block Ads!](https://blockads.fivefilters.org/) - detects whether you have an ad blocker
 - [Can You Block It?](https://canyoublockit.com/) - ad block tester, very intense
 
-## Self-Checkup
-- [Am I FLOCed](https://amifloced.org/) - see if you are part of Google's FLOC beta
-- [Am I Unique](https://amiunique.org/) - check how vulnerable your browser fingerprint is
-- [Browser Leaks](https://browserleaks.com/) - numerous resources and information about what your browser can leak (+mitigation tips)
-- [Cover Your Tracks](https://coveryourtracks.eff.org/) - test how much tracking information your browser leaks
-- [Instant Username](https://instantusername.com/) - username lookup
-
 ## Guides
 - [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
 
-## Tools
+## Tools / Self-Dox Checkup
+- [Am I FLOCed](https://amifloced.org/) - see if you are part of Google's FLOC beta
+- [Am I Unique](https://amiunique.org/) - check how vulnerable your browser fingerprint is
+- [Browser Leaks](https://browserleaks.com/) - numerous resources and information about what your browser can leak (+mitigation tips)
 - [Camas' Reddit Search](https://camas.github.io/reddit-search/) - search for old Reddit comments/posts
+- [Cover Your Tracks](https://coveryourtracks.eff.org/) - test how much tracking information your browser leaks
 - [Depix](https://github.com/beurtschipper/Depix) - recover text from pixellated screenshots
 - [Doublespeak](https://dblspk.io/) - cloak your text using invisible whitespace
 - [EXIF Data](http://exifdata.com) - extract EXIF data from photos
-- [ImgOps](https://imgops.com/) - perform forensic analysis on images
 - [Graph Tips](https://graph.tips/beta/) - new Facebook search function simplifier
+- [Instant Username](https://instantusername.com/) - username lookup
+- [ImgOps](https://imgops.com/) - perform forensic analysis on images
 - [SAND Lab Image Cloaker](http://sandlab.cs.uchicago.edu/fawkes/) - cloak your images using the Fawkes team's algorithm
+- [YouTube Geofind](https://mattw.io/youtube-geofind/location) - find YouTube videos by location
+- [YTComment Finder](https://ytcomment.kmcat.uk/) - search comments on YouTube videos
 
 # Everything Else
 - [Anime Girls Holding Programming Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) - \=D
+- [Monkeysort](https://leonid-shevtsov.github.io/monkeysort/) - sorting tool that uses human intervention
