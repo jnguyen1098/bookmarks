@@ -109,10 +109,8 @@
 
 ## Guides
 - [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
-- [JudyRecords](https://www.judyrecords.com/) - public Canadian court records
 - [The Paranoid's Bible](https://paranoidsbible.tumblr.com/)
 - [The New Oil](https://thenewoil.xyz/) - information is the new oil
-- [OntarioCourts.ca](https://www.ontariocourts.ca/search-canlii/ocj-en.htm) - look up public court information in Ontario
 - [PRISM Break](https://prism-break.org/en/) - (_attempt to_) opt out of global surveillance programs
 - [Privacytools.io](https://www.privacytools.io/) - privacy-friendly alternatives to existing software
 - [Surveillance | Self-Defense](https://ssd.eff.org/) - tips, tools, and how-tos for safer online communications
@@ -124,6 +122,7 @@
 - [Am I Unique](https://amiunique.org/) - check how vulnerable your browser fingerprint is
 - [Browser Leaks](https://browserleaks.com/) - numerous resources and information about what your browser can leak (+mitigation tips)
 - [Camas' Reddit Search](https://camas.github.io/reddit-search/) - Reddit archive
+- [Canlii](https://www.canlii.org/en/) - Canadian court records
 - [Cover Your Tracks](https://coveryourtracks.eff.org/) - test how much tracking information your browser leaks
 - [Depix](https://github.com/beurtschipper/Depix) - recover text from pixellated screenshots
 - [Do I Leak?](https://www.top10vpn.com/do-i-leak/) - well?
@@ -133,7 +132,9 @@
 - [Graph Tips](https://graph.tips/beta/) - new Facebook search function simplifier
 - [Instant Username](https://instantusername.com/) - username lookup
 - [ImgOps](https://imgops.com/) - perform forensic analysis on images
+- [JudyRecords](https://www.judyrecords.com/) - public Canadian court records
 - [Namechk](https://namechk.com/) - Internet username lookup
+- [OntarioCourts.ca](https://www.ontariocourts.ca/search-canlii/ocj-en.htm) - look up public court information in Ontario
 - [Politicbot](https://politicbot.github.io/r/all) - Reddit archive
 - [Privacy.net Analyzer](https://privacy.net/analyzer/) - Analyze what your browser leaks
 - [Removeddit](https://www.removeddit.com/) - Reddit archive
