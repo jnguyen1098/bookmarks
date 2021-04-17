@@ -1,8 +1,8 @@
 # 🔖 Jason's Bookmarks
 > Some cool sites I've collected over the years.
 
-## Sections
+## Table of Contents
 + [Dev. Utilities](#dev-utilities)
 
-## Dev. Utilities
+# Dev. Utilities
 - [BrowserShots](http://browsershots.org)
