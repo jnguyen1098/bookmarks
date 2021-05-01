@@ -20,8 +20,10 @@
 # List of Lists
 - [awesome](https://github.com/sindresorhus/awesome) - the OG lists of lists
 - [awesome-lists](https://github.com/pshah123/awesome-lists) - lists of lists of lists
+- [Build your own \<x\>](https://github.com/danistefanovic/build-your-own-x)
 - [lists...](https://github.com/jnv/lists) - lists of lists of lists of . . . lists of lists
 - [the-akira's CS resources](https://github.com/the-akira/Computer-Science-Resources)
+- [/r/cscareerquestions' Master List of Free Resources](https://www.reddit.com/r/cscareerquestions/comments/e4v755/master_list_of_free_resources/)
 - [MorganGeek's bookmarks](https://github.com/MorganGeek/bookmarks) - over 4,000 bookmarks for devs and geeks
 
 # Creative
@@ -60,15 +62,20 @@
 ## Education
 - [Awesome System Design](https://github.com/madd86/awesome-system-design) - curated list of system design resources
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - absolutely enormous list of dev. utils
+- [Cybersecurity Roadmap](https://docfate111.github.io/cybersecclub/roadmap.html)
 - [Design Patterns Explained with Food](https://github.com/wesdoyle/design-patterns-explained-with-food) - :\-)
 - [Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns) - DP patterns common to interviews
+- [Hacking Lab](https://hacking-lab.com/index.html) - learn how to hax
+- [Hack the Box](https://www.hackthebox.eu/) - another hacking site
 - [Learn _x_ in _y_ Minutes](https://learnxinyminutes.com/) - learn programming concepts fast!
 - [mayfrost's Guides](https://github.com/mayfrost/guides) - CS-related guides
+- [The Missing Semester of your CS Education](https://missing.csail.mit.edu/) - fill in those knowledge gaps
 - [MIT OpenCourseware](https://ocw.mit.edu/index.htm) - MIT's online courses
 - [openlib.cs](https://github.com/acmbpdc/openlib.cs) - free and open resources for university coursework in CS
 - [OSSU CS](https://github.com/ossu/computer-science) - the Open Source Society University's free, completely-online self-taught degree in CS
 - [Software System Design and Architecture Roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - top-down roadmap of a software engineer's career
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) - prep for the system design interview—includes Anki flashcards :poggies:
+- [Tryhackme](https://tryhackme.com/) - more hacking platform stuff
 
 ## QA
 - [Basemark](https://web.basemark.com/) - browser benchmarker
@@ -84,18 +91,25 @@
 - [Pingdom Website Speed Test](https://tools.pingdom.com/)
 
 ## Tidbits
+- [Analyzing the Simplest C++ Program](https://oneraynyday.github.io/dev/2020/05/03/Analyzing-The-Simplest-C++-Program/)
+- [Assembly's Perspective of C](https://blog.stephenmarz.com/2020/05/20/assemblys-perspective/)
+- [Deep C by Olve Maudal](https://www.slideshare.net/olvemaudal/deep-c) - a very deep look into the idiosyncrasies of C/C++
 - [How to Properly Declare C `extern`s](https://www.mathcs.emory.edu/~cheung/Courses/255/Syllabus/1-C-intro/cprep2b.html)
 - [List of Banned C Functions in the `git` Project](https://github.com/git/git/blob/master/banned.h) - look what they did to mah boi `strcpy`
 - [The Lost Art of Structure Packing](http://www.catb.org/esr/structure-packing/)
+- [Undefined and Unspecified by Olve Maudal](http://www.pvv.org/~oma/UnspecifiedAndUndefined_ACCU_Apr2013.pdf) - another wonderful presentation on weird C behaviour
 - [What is the Strict Aliasing Rule and Why do we care?](https://gist.github.com/shafik/848ae25ee209f698763cffee272a58f8) - OR type punning, undefined behaviour, and alignment
+- [What CS Majors Should Know](http://matt.might.net/articles/what-cs-majors-should-know/)
 
 ## Tools
 - [Built With](https://builtwith.com/) - find out what tech. stack a site was made with
 - [Can I Use](https://caniuse.com/) - look up the compatibility of various HTML elements depending on browser
 - [Codepen.io](https://codepen.io/) - spotlight your code snippets to other people
 - [Compiler Explorer](https://godbolt.org/) - study the assembler output of compiled programs
+- [A Crash Course on the Depths of Win32 Structured Exception Handling](https://web.archive.org/web/20180115191634/http://www.microsoft.com:80/msj/0197/exception/exception.aspx)
 - [Favicon Generator](https://realfavicongenerator.net/) - for real
 - [hilite.me](http://hilite.me/) - convert code snippets into pretty-printed HTML format
+- [In Search of the Perfect URL Validation Regex](https://mathiasbynens.be/demo/url-regex)
 - [JS Fiddle](https://jsfiddle.net/) - fiddle with JS code lol
 - [Ohm](https://ohmlang.github.io/editor/) - formal grammar validator/tester
 - [Regex101](https://regex101.com/) - regexp tester/sandbox
@@ -167,6 +181,7 @@
 - [The Kilobyte Gambit](https://vole.wtf/kilobytes-gambit/) - can _YOU_ beat a thousand bytes of JavaScript in Chess?
 - [Logical Increments](https://www.logicalincrements.com/) - PC baseline builds by price
 - [Monkeysort](https://leonid-shevtsov.github.io/monkeysort/) - sorting tool that uses human intervention
+- [Multilinkr](https://multilinkr.com/) - convert URLs to HTML hyperlinks
 - [Neri's Frequency Lists](https://frequencylists.blogspot.com/) - most commonly-used words per language
 - [/r/OpenDirectories](https://www.reddit.com/r/opendirectories/)
 - [This Person does not Exist](https://thispersondoesnotexist.com/) - GAN-generated people
