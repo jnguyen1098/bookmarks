@@ -5,7 +5,8 @@
 + [List of Lists](#list-of-lists)
 + [Creative](#creative)
 + [Computer Science and Programming](#computer-science-and-programming)
-  + [Career](#career)
+  + [Career - Jobs](#career-jobs)
+  + [Career - Technical Interview](#career-technical-interview)
   + [Education](#education)
   + [QA](#qa)
   + [Tidbits](#tidbits)
@@ -24,6 +25,7 @@
 - [lists...](https://github.com/jnv/lists) - lists of lists of lists of . . . lists of lists
 - [the-akira's CS resources](https://github.com/the-akira/Computer-Science-Resources)
 - [/r/cscareerquestions' Master List of Free Resources](https://www.reddit.com/r/cscareerquestions/comments/e4v755/master_list_of_free_resources/)
+- [Reverse Engineering resources](https://github.com/wtsxDev/reverse-engineering)
 - [MorganGeek's bookmarks](https://github.com/MorganGeek/bookmarks) - over 4,000 bookmarks for devs and geeks
 
 # Creative
@@ -48,14 +50,16 @@
 
 # Computer Science and Programming
 
-## Career
-- [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed) - the precursor to 'Grokking the Coding Interview'
+## Career - Jobs
 - [Career Guide to CS](https://www.notion.so/Written-Guide-ad5593333b0540c2b9a4fab8a07f4365)
 - [How to Get a Job at the Big 4](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 - [How to Get a Job in Tech](https://www.gautamtata.com/series/how-to-get-a-job-in-tech/)
 - [Intern Supply](https://intern.supply/) - find internships
 - [interviewing.io](https://interviewing.io/recordings/) - watch technical mock interviews from the big leagues
 - [Rank My Internship](https://www.rankmyinternship.ca/)
+
+## Career - Technical Interview
+- [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed) - the precursor to 'Grokking the Coding Interview'
 - [Sean Prashad's Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
 - [The Teamblind Leetcode 75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) - possibly the most important LC questions to know
 
@@ -94,8 +98,10 @@
 - [Analyzing the Simplest C++ Program](https://oneraynyday.github.io/dev/2020/05/03/Analyzing-The-Simplest-C++-Program/)
 - [Assembly's Perspective of C](https://blog.stephenmarz.com/2020/05/20/assemblys-perspective/)
 - [Deep C by Olve Maudal](https://www.slideshare.net/olvemaudal/deep-c) - a very deep look into the idiosyncrasies of C/C++
+- [Don't use vim for the wrong reasons](https://gist.github.com/romainl/6b952db7a6138b48657ba0fbb9d65370)
 - [How to Properly Declare C `extern`s](https://www.mathcs.emory.edu/~cheung/Courses/255/Syllabus/1-C-intro/cprep2b.html)
 - [List of Banned C Functions in the `git` Project](https://github.com/git/git/blob/master/banned.h) - look what they did to mah boi `strcpy`
+- [Optimization of Computer Programs in C](https://icps.u-strasbg.fr/~bastoul/local_copies/lee.html)
 - [The Lost Art of Structure Packing](http://www.catb.org/esr/structure-packing/)
 - [Undefined and Unspecified by Olve Maudal](http://www.pvv.org/~oma/UnspecifiedAndUndefined_ACCU_Apr2013.pdf) - another wonderful presentation on weird C behaviour
 - [What is the Strict Aliasing Rule and Why do we care?](https://gist.github.com/shafik/848ae25ee209f698763cffee272a58f8) - OR type punning, undefined behaviour, and alignment
