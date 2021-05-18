@@ -100,9 +100,11 @@
 - [Deep C by Olve Maudal](https://www.slideshare.net/olvemaudal/deep-c) - a very deep look into the idiosyncrasies of C/C++
 - [Don't use vim for the wrong reasons](https://gist.github.com/romainl/6b952db7a6138b48657ba0fbb9d65370)
 - [How to Properly Declare C `extern`s](https://www.mathcs.emory.edu/~cheung/Courses/255/Syllabus/1-C-intro/cprep2b.html)
+- [Do DFAs Mandate Every Transition?](https://cs.stackexchange.com/questions/12587/in-a-dfa-does-every-state-have-a-transition-on-every-symbol-of-the-alphabet)
 - [List of Banned C Functions in the `git` Project](https://github.com/git/git/blob/master/banned.h) - look what they did to mah boi `strcpy`
 - [Optimization of Computer Programs in C](https://icps.u-strasbg.fr/~bastoul/local_copies/lee.html)
 - [The Lost Art of Structure Packing](http://www.catb.org/esr/structure-packing/)
+- [The Most Useful C99 Macros](https://stackoverflow.com/questions/1772119/the-most-useful-user-made-c-macros-in-gcc-also-c99)
 - [Undefined and Unspecified by Olve Maudal](http://www.pvv.org/~oma/UnspecifiedAndUndefined_ACCU_Apr2013.pdf) - another wonderful presentation on weird C behaviour
 - [What is the Strict Aliasing Rule and Why do we care?](https://gist.github.com/shafik/848ae25ee209f698763cffee272a58f8) - OR type punning, undefined behaviour, and alignment
 - [What CS Majors Should Know](http://matt.might.net/articles/what-cs-majors-should-know/)
