@@ -1,24 +1,27 @@
 # 🔖 Jason's Bookmarks
+
 > Some cool sites I've collected over the years.
 
 ## Table of Contents
-+ [List of Lists](#list-of-lists)
-+ [Creative](#creative)
-+ [Computer Science and Programming](#computer-science-and-programming)
-  + [Career - Jobs](#career-jobs)
-  + [Career - Technical Interview](#career-technical-interview)
-  + [Education](#education)
-  + [QA](#qa)
-  + [Tidbits](#tidbits)
-  + [Tools](#tools)
-  + [Unicode](#unicode)
-+ [Privacy](#privacy)
-  + [Ad Blocking](#ad-blocking)
-  + [Guides](#guides)
-  + [Tools / Self-Dox Checkup](#tools--self-dox-checkup)
-+ [Everything Else](#everything-else)
+
+- [List of Lists](#list-of-lists)
+- [Creative](#creative)
+- [Computer Science and Programming](#computer-science-and-programming)
+  - [Career - Jobs](#career---jobs)
+  - [Career - Technical Interview](#career---technical-interview)
+  - [Education](#education)
+  - [QA](#qa)
+  - [Tidbits](#tidbits)
+  - [Tools](#tools)
+  - [Unicode](#unicode)
+- [Privacy](#privacy)
+  - [Ad Blocking](#ad-blocking)
+  - [Guides](#guides)
+  - [Tools / Self-Dox Checkup](#tools--self-dox-checkup)
+- [Everything Else](#everything-else)
 
 # List of Lists
+
 - [awesome](https://github.com/sindresorhus/awesome) - the OG lists of lists
 - [awesome-lists](https://github.com/pshah123/awesome-lists) - lists of lists of lists
 - [Build your own \<x\>](https://github.com/danistefanovic/build-your-own-x)
@@ -51,6 +54,7 @@
 # Computer Science and Programming
 
 ## Career - Jobs
+
 - [Career Guide to CS](https://www.notion.so/Written-Guide-ad5593333b0540c2b9a4fab8a07f4365)
 - [How to Get a Job at the Big 4](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 - [How to Get a Job in Tech](https://www.gautamtata.com/series/how-to-get-a-job-in-tech/)
@@ -59,11 +63,13 @@
 - [Rank My Internship](https://www.rankmyinternship.ca/)
 
 ## Career - Technical Interview
+
 - [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed) - the precursor to 'Grokking the Coding Interview'
 - [Sean Prashad's Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
 - [The Teamblind Leetcode 75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) - possibly the most important LC questions to know
 
 ## Education
+
 - [Awesome System Design](https://github.com/madd86/awesome-system-design) - curated list of system design resources
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - absolutely enormous list of dev. utils
 - [Cybersecurity Roadmap](https://docfate111.github.io/cybersecclub/roadmap.html)
@@ -82,6 +88,7 @@
 - [Tryhackme](https://tryhackme.com/) - more hacking platform stuff
 
 ## QA
+
 - [Basemark](https://web.basemark.com/) - browser benchmarker
 - [Browserbench](https://browserbench.org/) - benchmark the performance of your browser setup
 - [Browser Shots](http://browsershots.org/) - get screenshots of your website from different browser agents/setups
@@ -95,6 +102,7 @@
 - [Pingdom Website Speed Test](https://tools.pingdom.com/)
 
 ## Tidbits
+
 - [Analyzing the Simplest C++ Program](https://oneraynyday.github.io/dev/2020/05/03/Analyzing-The-Simplest-C++-Program/)
 - [Assembly's Perspective of C](https://blog.stephenmarz.com/2020/05/20/assemblys-perspective/)
 - [Deep C by Olve Maudal](https://www.slideshare.net/olvemaudal/deep-c) - a very deep look into the idiosyncrasies of C/C++
@@ -110,6 +118,7 @@
 - [What CS Majors Should Know](http://matt.might.net/articles/what-cs-majors-should-know/)
 
 ## Tools
+
 - [Built With](https://builtwith.com/) - find out what tech. stack a site was made with
 - [Can I Use](https://caniuse.com/) - look up the compatibility of various HTML elements depending on browser
 - [Codepen.io](https://codepen.io/) - spotlight your code snippets to other people
@@ -128,6 +137,7 @@
 - [`wget` Wizard](https://www.whatismybrowser.com/developers/tools/wget-wizard/) - interactive `wget` command creation wizard
 
 ## Unicode
+
 - [Confusables](https://util.unicode.org/UnicodeJsps/confusables.jsp) - Unicode characters that look awfully similar to one another
 - [Empty Character](http://emptycharacter.com/) - a bunch of blank unicode characters
 - [Shapecatcher](https://shapecatcher.com/) - Unicode character identifier
@@ -138,12 +148,14 @@
 # Privacy
 
 ## Ad Blocking
+
 - [ads-blocker.com](https://ads-blocker.com/testing/) - test your ad blocker
 - [Block Ads!](https://blockads.fivefilters.org/) - detects whether you have an ad blocker
 - [Can You Block It?](https://canyoublockit.com/) - ad block tester, very intense
 - [DetectAdBlock.com](https://www.detectadblock.com/) - detects ad blockers
 
 ## Guides
+
 - [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/)
 - [The Paranoid's Bible](https://paranoidsbible.tumblr.com/)
 - [The New Oil](https://thenewoil.xyz/) - information is the new oil
@@ -153,6 +165,7 @@
 - [The Ultimate Privacy Guide](https://www.reddit.com/r/privacy/comments/2byg94/the_ultimate_privacy_guide/)
 
 ## Tools / Self-Dox Checkup
+
 - [Aloodo Browser Test](https://www.aloodo.org/test/) - check your browser for leaks
 - [Am I FLOCed](https://amifloced.org/) - see if you are part of Google's FLOC beta
 - [Am I Unique](https://amiunique.org/) - check how vulnerable your browser fingerprint is
@@ -182,6 +195,7 @@
 - [YTComment Finder](https://ytcomment.kmcat.uk/) - search comments on YouTube videos
 
 # Everything Else
+
 - [Anime Girls Holding Programming Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) - \=D
 - [DeepL Translator](https://www.deepl.com/translator) - apparently a good translator
 - [Dwitter](https://www.dwitter.net/) - <= 140-char JavaScript visual demos
