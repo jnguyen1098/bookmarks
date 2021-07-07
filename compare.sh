@@ -5,7 +5,7 @@ if [ $# -ne 3 ]; then
     exit 1
 fi
 
-  diff <(sort <(sed -n -r 's/- \[[^]]*\]\(\s*([^)]*)\s*\).*$/\1/p' "$1")) <(grep -F -x -v -f "$3" <(sort "$2"))
+  diff <(sort <(sed -n -r 's/- \[[^]]*\]\(\s*([^#][^)]*)\s*\).*$/\1/p' "$1")) <(grep -F -x -v -f "$3" <(sort "$2"))
  
 # diff                                                                                                          take the `diff` of
 #      <(                                                               )                                          the process substitution of
