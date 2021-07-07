@@ -153,6 +153,7 @@
 - [Block Ads!](https://blockads.fivefilters.org/) - detects whether you have an ad blocker
 - [Can You Block It?](https://canyoublockit.com/) - ad block tester, very intense
 - [DetectAdBlock.com](https://www.detectadblock.com/) - detects ad blockers
+- [PrivateZilla](https://github.com/builtbybel/privatezilla) - Windows 10 security audit; find hidden privacy settings that Billy Gates doesn't tell you about
 
 ## Guides
 
